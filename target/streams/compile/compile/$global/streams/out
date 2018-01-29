@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/decapo/apps/play-slick-basic/app/controllers/Application.scala:25:82: Cannot find any HTTP Request Header here[0m
+[0m[[0m[31merror[0m] [0m[0m    catDao.all().zip(dogDao.all()).map { case (cats, dogs) => Ok(views.html.index(cats, dogs)) }[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
